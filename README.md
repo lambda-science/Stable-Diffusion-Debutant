@@ -26,10 +26,9 @@ Aujourd’hui il y a 3 modèles IA disponibles : **DALLE-E 2** (Closed-source 
 
 ### Les tâches que les IA peuvent effectuer
 
-- *Text2Img* : on entre une phrase à partir de laquelle on génère une image, c’est le mode de base.
-
-- _Img2Img : In/OutPainting_: à partir d’une image, on peut masquer certaines zones et ajouter une phrase pour regénérer l’espace. Sert par exemple pour « corriger » ou « améliorer » une image ou même étendre une image avec plus de contenu. On peut aussi faire la fusion entre deux images en « peignant » entre deux images, en replissant un « trou ».
-  - *Upscaling* : comme les images sont souvent générée avec une faible résolution (512x512), il existent des modèles capables d’augmenter la résolution de nos images automatiquement
+- *Text2Img* : on entre une phrase à partir de laquelle on génère une image, c’est le mode de base.  
+- *Img2Img : In/OutPainting*: à partir d’une image, on peut masquer certaines zones et ajouter une phrase pour regénérer l’espace. Sert par exemple pour « corriger » ou « améliorer » une image ou même étendre une image avec plus de contenu. On peut aussi faire la fusion entre deux images en « peignant » entre deux images, en replissant un « trou ».  
+- *Upscaling* : comme les images sont souvent générée avec une faible résolution (512x512), il existent des modèles capables d’augmenter la résolution de nos images automatiquement  
 
 ## Focus sur Stable Diffusion et ses paramètres
 
