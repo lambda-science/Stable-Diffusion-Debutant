@@ -54,7 +54,7 @@ Les samplers sont différents « moteurs » qui vont générer vos images. Ils
 - **k_dpm_2_a** : Très bon et très lent. 30—80 steps voir + une fois qu’on a une bonne seed et/ou un bon prompt pour faire une belle image (100-150 steps possiblement).
 - PLMS : demande beaucoup de travail/générations _Style : pour les petits détails_  
 
-**Update 25/09: nouvelle étude. ** https://www.reddit.com/r/StableDiffusion/comments/xmwcrx/a_comparison_between_8_samplers_for_5_different/
+**Update 25/09: nouvelle étude.** https://www.reddit.com/r/StableDiffusion/comments/xmwcrx/a_comparison_between_8_samplers_for_5_different/
 - 8 à 30 steps pour itérer vite, 100 steps pour l'image finale (convergence de tout les samplers).
 - K_LMS, K_HEUN and K_DPM_2 dans la plus part des cas. (Attention, à 8 steps, K_HEUN et K_DPM_2 ne sont pas recommandés)
 - K_EULER_A pour de la variabilité forte
