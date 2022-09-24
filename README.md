@@ -8,12 +8,12 @@ Aujourd’hui il y a 3 modèles IA disponibles : **DALLE-E 2** (Closed-source 
 
 ### Les hébergeurs et les prix
 
-**Payant et propriétaires :**
-- _DALL-E2:_ Waiting list — Gratuit : 50 credit + 15/mois—Payant: 15€/115 credit https://openai.com/dall-e-2/  
+**Payant et propriétaires :**  
+- _DALL-E2:_ Waiting list — Gratuit : 50 credit + 15/mois—Payant: 15€/115 credit https://openai.com/dall-e-2/
 - _MidJourney :_ Gratuit 25 crédits + 0/mois — Payant : 10 €/200 crédits par mois, 30 €/15 000 crédits par mois https://www.midjourney.com/home/  
-- 
-**Payant, reposant sur Stable Diff (open-source):**  
-- _DreamStudio:_ Gratuit : 200 credit + 0/mois — Payant : 2 €/200 credit, 10€/1000 credit https://beta.dreamstudio.ai  
+
+**Payant, reposant sur Stable Diff (open-source):**
+- _DreamStudio:_ Gratuit : 200 credit + 0/mois — Payant : 2 €/200 credit, 10€/1000 credit https://beta.dreamstudio.ai
 - _NightCafe:_ Gratuit : 5 crédits par jour — Payant : 10 €/100 credit, 20€/250 credit https://creator.nightcafe.studio/  
 
 **Gratuit, Stable Diffusion à autohéberger**
