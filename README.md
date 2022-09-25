@@ -63,7 +63,7 @@ Les samplers sont différents « moteurs » qui vont générer vos images. Ils
 
 #### Trouver une bonne seed
 
-**Trouver une bonne seed est crucial pour générer une bonne image**. La seed, c’est un nombre aléatoire utilisé par l’IA pour générer une image. Pour un même prompt, deux résultats pourront être très différent niveau qualité juste à cause d’une mauvaise seed. Donc une fois qu’on a un prompt qu’on estime un minimum solide, il est intéressant de faire du « seed hunting ». C’est à dire, générer plein d’images pour un même prompt, possiblement avec un nombre de steps faible (et sampler DDIM), à chaque fois avec une seed différente et garder la seed d’un résultat qui est satisfaisant.
+**Trouver une bonne seed est crucial pour générer une bonne image**. La seed, c’est un nombre aléatoire utilisé par l’IA pour générer une image. Pour un même prompt, deux résultats pourront être très différent niveau qualité juste à cause d’une mauvaise seed. Donc une fois qu’on a un prompt qu’on estime un minimum solide, il est intéressant de faire du « seed hunting ». C’est à dire, générer plein d’images pour un même prompt, possiblement avec un nombre de steps faible (et sampler K_LMS/DDIM), à chaque fois avec une seed différente et garder la seed d’un résultat qui est satisfaisant.
 
 #### Fixer une Seed
 
