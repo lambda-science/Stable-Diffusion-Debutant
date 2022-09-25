@@ -109,7 +109,7 @@ Cinq Étapes pour construire une bonne image.
 
 2. **Améliorer son prompt (A/B Testing)** : utiliser une seed fixée pour ajouter et supprimer des éléments de son prompt pour l’affiner.
 
-3. **Trouver une bonne seed** : générer beaucoup d’images sur des seed différentes avec le sampler DDIM en 8-15 steps jusqu’à trouver une seed satisfaisante.
+3. **Trouver une bonne seed** : générer beaucoup d’images sur des seed différentes avec un sampler rapide (K_LMS, DDIM) en 8-20 steps jusqu’à trouver une seed satisfaisante.
 
 4. **Raffiner l’image** : produire une image de qualité en modifiant légèrement son prompt et en utilisant le sampler k_lms en 100 steps ou k_dpm_2_a en 80-150 steps.
 
