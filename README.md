@@ -18,7 +18,7 @@ Aujourd’hui il y a 3 modèles IA disponibles : **DALLE-E 2** (Closed-source 
 
 **Gratuit, Stable Diffusion à autohéberger**
 
-- **StableDiffusion WEBUI** : Un projet d’interface web pour l’utilisation du modèle gratuit Stable Diffusion. Ce code est à télécharger et à exécuter sur sa propre machine (soit à la maison si vous avec une carte graphique, soit sur un serveur qui en possède une) https://github.com/sd-webui/stable-diffusion-webui
+- **StableDiffusion WEBUI** : Un projet d’interface web pour l’utilisation du modèle gratuit Stable Diffusion. Ce code est à télécharger et à exécuter sur sa propre machine (soit à la maison si vous avez une carte graphique, soit sur un serveur qui en possède une) https://github.com/sd-webui/stable-diffusion-webui
 
 - **Google Colab** : la plateforme de Google pour faire tourner du Python avec leur GPU. Si vous n’avez pas de GPU ou de serveur, vous pouvez utiliser cette plateforme pour faire tourner facilement StableDiffusion WEBUI https://github.com/altryne/sd-webui-colab. Prix : offre gratuite + offre 11 €/mois + offre 45 €/mois. À partir du 31 septembre, le décompte des ressources disponibles pour chaque plan sera clairement affiché.
 
