@@ -76,7 +76,7 @@ Le prompt c’est la phrase que vous donnez à l’IA pour générer l’image. 
 
 ### Structure conseillée
 
-On conseille une structure en quatre parties :
+Pour un premier jet, on peut créer un bon prompt de base en quatre parties :
 
 1. **Le sujet** principal : « Pandas », « Red-haired woman », « A warrior with a sword »
 2. **Le Style** : « Realistic », « Oil painting », « Pencil drawing », « Concept art ». Pour un style réaliste : « hyperrealistic », « realistic », « a photo of \<prompt\> ‘a photograph of \<prompt\>’
@@ -84,6 +84,8 @@ On conseille une structure en quatre parties :
 4. **Touches finales** : on peut à la fin ajouter un nombre important de modificateurs plus ou moins spécifique, du genre “Highly detailed, surrealism, trending on art station, triadic color scheme, smooth, sharp focus, matte, elegant, the most beautiful image ever seen, illustration, digital paint, dark, gloomy, octane render, 8k, 4k, washed colors, sharp, dramatic lighting, beautiful, post-processing, picture of the day, ambient lighting, epic composition”
 
 Exemple de prompt : _“Red-haired woman, oil painting, Picasso, dark, highly detailed”_
+
+Une fois une bonne base acquise, on peut ajouter un nombre important de modificateurs pour orienter l'IA vers le résultat que l'on cherche.
 
 ### Trouver de l’inspiration et les mots-clés
 
