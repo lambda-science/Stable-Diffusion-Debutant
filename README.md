@@ -50,13 +50,13 @@ Les samplers sont différents « moteurs » qui vont générer vos images. Ils
 
 - **k_lms** (défaut) : la valeur sure. 50 step, CFG 7-8, il est plutôt rapide et donne de bons résultats
 - **DDIM** : pour itérer très rapidement. Avec 8 à 15 steps, il fonctionne très vite et permet de générer plein d’images pour un prompt donné sur plusieurs seed afin de trouver la seed parfait et de vérifier si un concept de prompt peut fonctionner. _Style : Plutôt réaliste._
-- k*euler_a : comme DDIM ultra variable entre les steps, les images changent beaucoup. \_Style : bon pour la « fantasy »*
+- *k_euler_a* : comme DDIM mais ultra variable entre les steps, les images changent beaucoup. \_Style : bon pour la « fantasy »*
 - **k_dpm_2_a** : Très bon et très lent. 30—80 steps voir + une fois qu’on a une bonne seed et/ou un bon prompt pour faire une belle image (100-150 steps possiblement).
 - PLMS : demande beaucoup de travail/générations _Style : pour les petits détails_  
 
 **Update 25/09: nouvelle étude.** https://www.reddit.com/r/StableDiffusion/comments/xmwcrx/a_comparison_between_8_samplers_for_5_different/
 - 8 à 30 steps pour itérer vite, 100 steps pour l'image finale (convergence de tout les samplers).
-- K_LMS, K_HEUN and K_DPM_2 dans la plus part des cas. (Attention, à 8 steps, K_HEUN et K_DPM_2 ne sont pas recommandés)
+- K_LMS, K_HEUN and K_DPM_2 dans la plus part des cas, que ce soit en exploration ou image finale rafinée. (Attention, à 8 steps, K_HEUN et K_DPM_2 ne sont pas recommandés)
 - K_EULER_A pour de la variabilité forte
 
 ### La Seed
