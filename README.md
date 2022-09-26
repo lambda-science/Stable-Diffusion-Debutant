@@ -97,15 +97,17 @@ Une liste d’époques et de style artistique avec les noms d’artistes corresp
 
 ### Conseils avancés
 
-- L’ordre est important, les dates/époques aussi
-- Répéter des mots est OK
-- Les parenthèses et crochets peuvent servir : (((mot))) augmente l’attention portée et [[mot]] la diminue
+- L’ordre des mots (token) est important, toujours mettre le sujet en premier. Mettre des dates et époques peut aussi être important.
+- Répéter des mots est utile pour forcer l'attention dessus
+- Les parenthèses et crochets peuvent servir : (((mot))) augmente fortement l’attention portée et [mot] la diminue légèrement
 
 ## Construire d’une bonne image
 
 Cinq Étapes pour construire une bonne image.
 
 1. **Construire un prompt de base** : suivre la règle des 4 étapes (sujet, style, artiste, modificateurs), en ayant en amont cherché les bons mots-clés et l’inspiration sur Lexica.
+
+**Etape 2 et 3 de façon cyclique: bon prompt -> bonne seed -> meilleur prompt -> meilleur seed ...**  
 
 2. **Améliorer son prompt (A/B Testing)** : utiliser une seed fixée pour ajouter et supprimer des éléments de son prompt pour l’affiner.
 
